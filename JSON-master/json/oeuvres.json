@@ -1,0 +1,35 @@
+{
+    "BD": {
+        "The Walking Dead": {
+            "auteur": [
+                "Robert Kirkman",
+                "Cliff Rathburn",
+                "Charlie Adlard"
+            ]
+        },
+        "The Last of Us": {
+            "auteur": [
+                "Neil Druckmann",
+                "Faith Erin Hicks"
+            ]
+        }
+    },
+    "livre": {
+        "The Complete Works of HP Lovecraft": {
+            "auteur": "HP LoveCraft",
+            "nouvelles": [
+                "Dagon",
+                "The Hound",
+                "The Nameless City",
+                "Nyarlathotep"
+            ]
+        },
+        "Edgar Allan Poe: Complete Tales and Poems": {
+            "auteur": "Edgar Allan Poe",
+            "nouvelles": [
+                "The Tell-Tale Heart",
+                "The Pit and the Pendulum"
+            ]
+        }
+    }
+}
