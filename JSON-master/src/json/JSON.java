@@ -74,6 +74,6 @@ public class JSON {
         file.flush();
         file.close();
         
-        
+        // la nouvell methode a faire
     }
 }
